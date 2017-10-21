@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">"Alice "</string>
+
+
+    <string name="T1_Story">After a long hard day at work, you arrive in a cab back home. There is a huge cardboard box on your doorstep.</string>
+    <string name="T1_Ans1">Take it inside</string>
+    <string name="T1_Ans2">Leave it there</string>
+
+    <string name="T3_Story">You decide to check it out and take it inside. You plop it down on the table and run your hands across the OPEN end.</string>
+    <string name="T3_Ans1">Open it</string>
+
+
+    <string name="T4_Story">Inside you find the most beautifully crafted victorian doll, its dress is a beautiful shade of burgundy red. There is something crafted on her shoe.</string>
+    <string name="T4_Ans1">Read It</string>
+
+    <string name="T5_Story">On a closer look, it reads \"Alice\" in beautiful calligraphy. </string>
+    <string name="T5_Ans1">Leave Alice on the couch</string>
+    <string name="T5_Ans2">Place Alice on your antiquity shelf</string>
+
+    <string name="T6_Story">You leave Alice on the couch and decide to go have a long bath. You hear a loud thud and rush to the living room and see Alice missing.</string>
+    <string name="T6_Ans1">Search for Alice</string>
+    <string name="T6_End">You walk hastily through your house and until you see her there, sitting as though its her place, on your antiquity shelf, with your other collector\'s doll fallen on the ground.</string>
+
+    <string name="T7_Story">You place her there and go ahead to freshen up a bit. As you are washing your face, you hear a silent hum. \"99 bottles of rum on bear on the wall\" followed by a loud thud.</string>
+    <string name="T7_Ans1">Investigate</string>
+    <string name="T7_Ans2">Don\'t Investigate</string>
+
+    <string name="T8_End">You decide its too much for you to process today and continue freshening up. After all an evil doll is the least of your concerns.</string>
+    <string name="T4_End">You decide to leave it outside.</string>
+
+</resources>
