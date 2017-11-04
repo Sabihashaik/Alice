@@ -48,16 +48,14 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/T1_Story"
         android:id="@+id/mStoryText"
-        android:textSize="20sp"
+        android:textSize="25sp"
         android:gravity="center_horizontal"
         tools:layout_constraintTop_creator="1"
         android:layout_marginTop="51dp"
         tools:layout_constraintLeft_creator="1"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginLeft="8dp"
-        tools:ignore="RtlHardcoded"
-        android:layout_marginRight="8dp"/>
+        android:layout_marginLeft="0dp"
+        tools:ignore="RtlHardcoded"/>
 
 </android.support.constraint.ConstraintLayout>
